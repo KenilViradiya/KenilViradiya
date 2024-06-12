@@ -1,5 +1,7 @@
-![MasterHead](https://github.com/KenilViradiya/KenilViradiya/blob/main/download-unscreen.gif)
-<h1 align="center">Hi 👋, I'm Kenil Viradiya</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KenilViradiya/KenilViradiya/main/output-onlinegiftools%20(1).gif" alt="MasterHead" style="width:100%;">
+</p>
+</p><h1 align="center">Hi 👋, I'm Kenil Viradiya</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFtODhkbmFvdWF6cXZxdmJrZ3RxYTFvaHk5NXBudnB1bHJxb3RqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
